@@ -2,27 +2,27 @@
 
 <table>
   <tr>
-    <td>**Date**</td>
+    <td><b>Date</b></td>
     <td>June 6</td>
   </tr>
   <tr>
-    <td>**Where**</td>
+    <td><b>Where</b></td>
     <td>Yankee Springs - Norris Rd to Hall Lake</td>
   </tr>
   <tr>
-    <td>**When**</td>
+    <td><b>When</b></td>
     <td>10am</td>
   </tr>
   <tr>
-    <td>**GPS Coordinates**</td>
+    <td><b>GPS Coordinates</b></td>
     <td>Latitude: 42.605117<br>Longitude: -85.463707</td>
   </tr>
   <tr>
-    <td>**Google Maps**</td>
+    <td><b>Google Maps Link</b></td>
     <td>https://www.google.com/maps/dir//42.60511704,-85.46370733/@42.60511704,-85.46370733,12z</td>
   </tr>
   <tr>
-    <td>**NCT Map Link**</td>
+    <td><b>NCT Maps Link</b></td>
     <td>https://arcg.is/0W4f5G  </td>
   </tr>
 </table>
