@@ -17,7 +17,7 @@ Severe weather such as thunderstorms or temperatures in excess of 90 degrees fah
 | Date | Location | Start Time | Miles Goal |
 |---|---|---|---|
 | 6/6 | [Yankee Springs - Norris Rd to Hall Lake](hike-01.md) | 10am | 3 |
-| 6/20 | Yankee Springs - M179 to McDonald Lake | 10am | 5 |
+| 6/20 | [Yankee Springs - M179 to McDonald Lake](hike-02.md) | 10am | 5 |
 | 7/4 | Fort Custer National Cemetery | 10am | 7 |
 | 7/18 | Yankee Springs - M179 to Hall Lake | 9am | 9 |
 | 8/1 | Lowell - Scout Cabin to Fallassburg Park | 9am | 12 |
