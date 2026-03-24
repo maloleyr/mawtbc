@@ -21,10 +21,6 @@
     <td><b>Google Maps Link</b></td>
     <td>https://www.google.com/maps/dir//42.60511704,-85.46370733/@42.60511704,-85.46370733,12z</td>
   </tr>
-  <tr>
-    <td><b>NCT Maps Link</b></td>
-    <td>https://arcg.is/0W4f5G  </td>
-  </tr>
 </table>
 
 ## Plan
