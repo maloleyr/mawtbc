@@ -32,7 +32,7 @@ Severe weather such as thunderstorms or temperatures in excess of 90 degrees fah
 
 The average pace will be between 2 and 3 miles per hour. Please use this pace to estimate how long each hike will take. For example the 9 mile hike should take approximately 3 - 4 hours depending on personal pace and breaks.
 
-* This hike is within the Manistee National Forest. Keep eyes peeled for dispersed campers and wild animals. **This is also part of our Hike Weekend route**.
+\* This hike is within the Manistee National Forest. Keep eyes peeled for dispersed campers and wild animals. **This is also part of our Hike Weekend route**.
 
 # Make a Wish Trailblaze Challenge
 
