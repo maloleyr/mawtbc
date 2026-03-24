@@ -42,11 +42,11 @@ The average pace will be between 2 and 3 miles per hour. Please use this pace to
 
 Hi my name is Richard and this will be my fifth year as a hike leader. I’m an avid backpacker and hiker who loves the outdoors. I have a goal of being on a trail for a few hours and at least five miles every week. I was drawn to this event because it combines two of my passions: hiking and leading. When I’m not on trail I am either working as a computer security consultant (I’m a hacker), hanging out with my wife and furbabies, or enjoying my favorite spirits with friends. 
 
-Q: What is your number one piece of training advice? 
-A: Hike with a weighted pack. You will be training for a full 22.5 mile hike in a single day. Not only do you need to build endurance you need to build muscle. Pack your bag with everything you may need or want and keep it loaded until **Hike Weekend**. Then lighten the load. 
-Q: Boots or shoes? 
-A: Trail shoes. I opt for Altra Lone Peaks for the wide toe box and zero-drop soles. 
-Q: Cotton, wool, or synthetics? 
+Q: What is your number one piece of training advice?  
+A: Hike with a weighted pack. You will be training for a full 22.5 mile hike in a single day. Not only do you need to build endurance you need to build muscle. Pack your bag with everything you may need or want and keep it loaded until **Hike Weekend**. Then lighten the load.  
+Q: Boots or shoes?  
+A: Trail shoes. I opt for Altra Lone Peaks for the wide toe box and zero-drop soles.  
+Q: Cotton, wool, or synthetics?  
 A: Never cotton. Wear synthetics and/or wool clothing. Dress in layers!
 
 Bonus furbabies: These are Koda and Tressa, our rescue pitties. Koda is such a good big brother to her.
