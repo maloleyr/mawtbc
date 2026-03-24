@@ -12,19 +12,42 @@ Severe weather such as thunderstorms or temperatures in excess of 90 degrees fah
 2. No Cotton! Wear synthetic materials or wool.
 3. Weather can be unpredictable so please pack accordingly. This means that we can, and likely will, continue to hike through rain.
 
+## Training Hike Schedule - Summer 2026
 
-- insert table here too
+| Date | Location | Start Time | Miles Goal |
+|---|---|---|---|
+| 6/6 | Yankee Springs - Norris Rd to Hall Lake | 10am | 3 |
+| 6/20 | Yankee Springs - M179 to McDonald Lake | 10am | 5 |
+| 7/4 | Fort Custer National Cemetery | 10am | 7 |
+| 7/18 | Yankee Springs - M179 to Hall Lake | 9am | 9 |
+| 8/1 | Lowell - Scout Cabin to Fallassburg Park | 9am | 12 |
+| 8/15 | Cedar Springs - Red Pine Dr. Past 22 Mile | 8am | 13 |
+| 8/29 | * Newaygo - Croton Dam to Bigelow Creek | 8am | 15 |
+| 9/12 | W.K. Kellogg Experimental Forest | 9am | 10 |
+
+### HIKE WEEKEND SEPTEMBER 19th --> 22.5 Miles
+
+**Location**: E 40th St, Newaygo, MI, 49337
+
 
 The average pace will be between 2 and 3 miles per hour. Please use this pace to estimate how long each hike will take. For example the 9 mile hike should take approximately 3 - 4 hours depending on personal pace and breaks.
 
 * This hike is within the Manistee National Forest. Keep eyes peeled for dispersed campers and wild animals. **This is also part of our Hike Weekend route**.
 
-
-
 # Make a Wish Trailblaze Challenge
-Make a Wish Trailblaze Challenge. A collection of my routes and tips for training each summer.
 
-## Huh? 
+The Trailblaze Challenge is a 22-mile hike where participants can tackle the terrain of the North Country Trail, Newaygo County - all in one amazing day! This is a hike, not a race, and caters to all levels, from novice to advanced outdoor enthusiasts.
+
+As well as being an extraordinary physical test, the real challenge is to raise much-needed funds to grant the wishes of children with critical illnesses in Michigan. Now more than ever, hope is essential. Make-A-Wish is committed to ensuring that no eligible child waits to experience the hope and joy a wish brings.
+
+By supporting the Trailblaze Challenge, you will help Make-A-Wish America grant even more wishes this year nationally.
+
+For questions, or if you're interested in joining us please reach out to Megan Mee
++1 (810) 522-6512 | mmee@michigan.wish.org
+
+[Make a Wish Trailblaze Challenge Information Page and Registration](https://wish.org/michigan/trailblaze-challenge-2)
+
+## Etc...
 
 The Trailblaze Challenge is a fundraising event that I participate in annually with Make a Wish of Michigan. We spend the summer training (via training hikes), raising money, and then culminating in a large group hike of 22-24 miles in the fall. 
 
