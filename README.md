@@ -16,7 +16,7 @@ Severe weather such as thunderstorms or temperatures in excess of 90 degrees fah
 
 | Date | Location | Start Time | Miles Goal |
 |---|---|---|---|
-| 6/6 | Yankee Springs - Norris Rd to Hall Lake | 10am | 3 |
+| 6/6 | [Yankee Springs - Norris Rd to Hall Lake](hike-01.md) | 10am | 3 |
 | 6/20 | Yankee Springs - M179 to McDonald Lake | 10am | 5 |
 | 7/4 | Fort Custer National Cemetery | 10am | 7 |
 | 7/18 | Yankee Springs - M179 to Hall Lake | 9am | 9 |
@@ -38,7 +38,7 @@ The average pace will be between 2 and 3 miles per hour. Please use this pace to
 
 **Richard Maloley II**
 
-[![A selfie of myself](/assets/images/rm_selfie.png)]
+![A selfie of myself](/assets/images/rm_selfie.png)
 
 Hi my name is Richard and this will be my fifth year as a hike leader. I’m an avid backpacker and hiker who loves the outdoors. I have a goal of being on a trail for a few hours and at least five miles every week. I was drawn to this event because it combines two of my passions: hiking and leading. When I’m not on trail I am either working as a computer security consultant (I’m a hacker), hanging out with my wife and furbabies, or enjoying my favorite spirits with friends. 
 
@@ -51,7 +51,7 @@ A: Never cotton. Wear synthetics and/or wool clothing. Dress in layers!
 
 Bonus furbabies: These are Koda and Tressa, our rescue pitties. Koda is such a good big brother to her.
 
-[![A photo of my dogs](/assets/images/furbabies.png)]
+![A photo of my dogs](/assets/images/furbabies.png)
 
 
 # Make a Wish Trailblaze Challenge
