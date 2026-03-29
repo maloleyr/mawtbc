@@ -44,8 +44,12 @@ Hi my name is Richard and this will be my fifth year as a hike leader. I’m an 
 
 Q: What is your number one piece of training advice?  
 A: Hike with a weighted pack. You will be training for a full 22.5 mile hike in a single day. Not only do you need to build endurance you need to build muscle. Pack your bag with everything you may need or want and keep it loaded until **Hike Weekend**. Then lighten the load.  
+
+
 Q: Boots or shoes?  
 A: Trail shoes. I opt for Altra Lone Peaks for the wide toe box and zero-drop soles.  
+
+
 Q: Cotton, wool, or synthetics?  
 A: Never cotton. Wear synthetics and/or wool clothing. Dress in layers!
 
