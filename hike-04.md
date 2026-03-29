@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><b>Google Maps Link</b></td>
-    <td>https://www.google.com/maps/dir//42.6390505,-85.45441533/@42.6390505,-85.45441533,12z</td>
+    <td>https://maps.app.goo.gl/ZF5DfYmXq4brKk9w7</td>
   </tr>
 </table>
 

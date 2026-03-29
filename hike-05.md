@@ -26,7 +26,7 @@
 ## Plan
 This is a fun one! We will traverse several different forest areas, some wonderful views of the Flat River in Lowell, and end up in a multi-use park. We’ll take a good break in the shade before heading back to our starting point.
 
-Mileage: 11 miles.
+Mileage: 11-12 miles.
 
 ## Map
 ![Map](/assets/images/hike-05-map.png)

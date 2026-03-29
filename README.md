@@ -20,7 +20,7 @@ Severe weather such as thunderstorms or temperatures in excess of 90 degrees fah
 | 6/20 | [Yankee Springs - M179 to McDonald Lake](hike-02.md) | 10am | 5 |
 | 7/4 | [Fort Custer National Cemetery](hike-03.md) | 10am | 7 |
 | 7/18 | [Yankee Springs - M179 to Hall Lake](hike-04.md) | 9am | 9 |
-| 8/1 | [Lowell - Scout Cabin to Fallassburg Park](hike-05.md) | 9am | 11 |
+| 8/1 | [Lowell - Scout Cabin to Fallassburg Park](hike-05.md) | 9am | 11-12 |
 | 8/15 | [Cedar Springs - Red Pine Dr. Past 22 Mile](hike-06.md) | 8am | 13 |
 | 8/29 | [* Newaygo - Croton Dam to Bigelow Creek](hike-07.md) | 8am | 15 |
 | 9/12 | [W.K. Kellogg Experimental Forest](hike-08.md) | 9am | 10 |
