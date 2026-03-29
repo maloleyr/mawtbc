@@ -19,11 +19,11 @@ Severe weather such as thunderstorms or temperatures in excess of 90 degrees fah
 | 6/6 | [Yankee Springs - Norris Rd to Hall Lake](hike-01.md) | 10am | 3 |
 | 6/20 | [Yankee Springs - M179 to McDonald Lake](hike-02.md) | 10am | 5 |
 | 7/4 | [Fort Custer National Cemetery](hike-03.md) | 10am | 7 |
-| 7/18 | Yankee Springs - M179 to Hall Lake | 9am | 9 |
-| 8/1 | Lowell - Scout Cabin to Fallassburg Park | 9am | 12 |
-| 8/15 | Cedar Springs - Red Pine Dr. Past 22 Mile | 8am | 13 |
-| 8/29 | * Newaygo - Croton Dam to Bigelow Creek | 8am | 15 |
-| 9/12 | W.K. Kellogg Experimental Forest | 9am | 10 |
+| 7/18 | [Yankee Springs - M179 to Hall Lake](hike-04.md) | 9am | 9 |
+| 8/1 | [Lowell - Scout Cabin to Fallassburg Park](hike-05.md) | 9am | 11 |
+| 8/15 | [Cedar Springs - Red Pine Dr. Past 22 Mile](hike-06.md) | 8am | 13 |
+| 8/29 | [* Newaygo - Croton Dam to Bigelow Creek](hike-07.md) | 8am | 15 |
+| 9/12 | [W.K. Kellogg Experimental Forest](hike-08.md) | 9am | 10 |
 
 ### HIKE WEEKEND SEPTEMBER 19th --> 22.5 Miles
 
@@ -52,6 +52,10 @@ A: Never cotton. Wear synthetics and/or wool clothing. Dress in layers!
 Bonus furbabies: These are Koda and Tressa, our rescue pitties. Koda is such a good big brother to her.
 
 ![A photo of my dogs](/assets/images/furbabies.png)
+
+## Vehicle To Look For
+
+I drive a white Buick Encore SUV. 
 
 
 # Make a Wish Trailblaze Challenge
