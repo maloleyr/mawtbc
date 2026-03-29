@@ -31,3 +31,4 @@ Mileage: 13 miles.
 ## Map
 ![Map](/assets/images/hike-06-map.png)
 
+[Return to Schedule](README.md)

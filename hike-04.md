@@ -31,3 +31,4 @@ Mileage: 9 miles.
 ## Map
 ![Map](/assets/images/hike-04-map.png)
 
+[Return to Schedule](README.md)
